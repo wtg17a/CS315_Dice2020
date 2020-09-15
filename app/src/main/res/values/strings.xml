@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">DiceApp2020</string>
+    <string name="title_activity_d6">D6 Roller</string>
+    <string name="title_activity_d20">D20 Roller</string>
+    <string name="roll_prompt">Tap the die to roll!</string>
+    <string name="nat20">Critical Hit!</string>
+    <string name="nat1">Critical Failure!</string>
+    <string name="switch_d20">Go to D20</string>
+    <string name="switch_d6">Go to D6</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
 </resources>
